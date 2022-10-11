@@ -1,5 +1,5 @@
 [package]
-name = "Rust-SDK"
+name = "encryption_api_services_rust_sdk"
 version = "0.1.0"
 edition = "2021"
 
